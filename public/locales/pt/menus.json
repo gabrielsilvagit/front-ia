@@ -1,0 +1,20 @@
+{
+  "dash": "Dashboard",
+  "contacts": "Contatos",
+  "customers": "Clientes",
+  "products": "Produtos",
+  "contracts": "Contratos",
+  "settings": "Configurações",
+  "prod_all": "Listar Todos",
+  "prod_categories": "Categorias",
+  "prod_subcategories": "Subcategorias",
+  "set_users": "Usuários",
+  "set_roles": "Grupos de Usuarios",
+  "set_permissions": "Permissões",
+  "user_profile": "Perfil",
+  "user_logout": "Sair",
+  "inventory_prods": "Inventário de produtos",
+  "inventory_prod_all": "Listar todos",
+  "inventory_prod_categories": "Categorias",
+  "inventory_prod_sub_categories": "Subcategorias"
+}

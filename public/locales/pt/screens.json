@@ -1,0 +1,277 @@
+{
+  "dash": {
+    "welcome": "Bem-vindo ao sistema interno da W2Z!"
+  },
+  "users": {
+    "title": "Usuários",
+    "btnNew": "Novo Usuário",
+    "data": {
+      "id": "#",
+      "name": "Nome",
+      "email": "Email",
+      "active": "Ativo",
+      "inactive": "Inativo"
+    }
+  },
+  "profile": {
+    "title": "Perfil",
+    "data": {
+      "name": "Nome",
+      "email": "Email",
+      "avatar": "Avatar"
+    }
+  },
+  "search": {
+    "button": "Buscar",
+    "clearButton": "Limpar"
+  },
+  "customers": {
+    "title": "Clientes",
+    "btnNew": "Novo Cliente",
+    "linkContacts": "Relacionar Contato",
+    "addContacts": "Adicionar Contato",
+    "addContracts": "Adicionar Contrato",
+    "contacts": "Contatos",
+    "modal": {
+      "title": {
+        "add": "Cadastro de Clientes",
+        "edit": "Editando: {{record}}"
+      }
+    },
+    "data": {
+      "id": "#",
+      "business": "Pessoa",
+      "name": {
+        "person": "Nome Completo",
+        "business": "Razão Social",
+        "both": "Razão Social/Nome",
+        "name": "Nome"
+      },
+      "nickname": "Nome Fantasia",
+      "phone": "Contato",
+      "phone2": "Contato 2",
+      "actions": "Ações",
+      "site": "WebSite",
+      "observation": "Observação",
+      "addressData": "Localização",
+      "zipcode": "CEP",
+      "city": "Cidade",
+      "state": "Estado",
+      "address": "Endereço",
+      "addressNumber": "Número",
+      "neighborhood": "Bairro",
+      "addressExtra": "Complemento",
+      "email": "Email",
+      "active": "Ativo",
+      "inactive": "Inativo",
+      "type": {
+        "business": "Jurídica",
+        "person": "Física"
+      },
+      "reg_city": "Insc. Municipal",
+      "reg_state": "Insc. Estadual",
+      "ssn": {
+        "cpf": "CPF",
+        "cnpj": "CNPJ",
+        "both": "CPF/CNPJ",
+        "document": "Documento"
+      },
+      "contracts": "Contratos"
+    }
+  },
+  "products": {
+    "title": "Produtos",
+    "btnNew": "Novo Produto",
+    "data": {
+      "type": "Tipo",
+      "actions": "Ações",
+      "name": "Nome",
+      "cost": "Custo",
+      "price": "Valor",
+      "recurrence": "Recorrência",
+      "length": "Duração",
+      "alert": "Alerta",
+      "status": "Status",
+      "product": "Produto",
+      "service": "Serviço",
+      "description": "Descrição",
+      "serial": "Serial",
+      "category": "Categoria",
+      "subcategory": "SubCategoria",
+      "notes": "Obs."
+    }
+  },
+  "inventoryProducts": {
+    "title": "Produtos do inventário",
+    "btnNew": "Novo Produto do inventário",
+    "data": {
+      "inventoryCategory": "Categoria",
+      "inventorySubCategory": "SubCategoria",
+      "name": "Nome",
+      "brand": "Marca",
+      "model": "Modelo",
+      "serial": "Serial",
+      "department": "Departamento",
+      "acquisition_nf": "Aquisição NF",
+      "acquisition_date": "Data da aquisição",
+      "acquisition_value": "Valor da aquisição",
+      "conservation": "Conservação"
+    }
+  },
+  "contracts": {
+    "title": "Contratos",
+    "btnNew": "Novo Contrato",
+    "files": {
+      "title": "Arquivos",
+      "name": "Nome",
+      "upload": "Upload de arquivos"
+    },
+    "data": {
+      "customer_id": "Cliente",
+      "category": "Categoria",
+      "subcategory": "Subcategoria",
+      "product": "Produto",
+      "product_id": "Produto",
+      "customer": "Cliente",
+      "recurrence": "Recorrência",
+      "cost": "Val. Custo",
+      "price": "Val. Venda",
+      "started_at": "Início",
+      "serial": "Serial",
+      "length": "Duração",
+      "expiration": "Expiração",
+      "notes": "Obs.",
+      "months": "Meses"
+    },
+    "form": {
+      "product": "Selecione o Produto",
+      "customer": "Selecione o Cliente",
+      "history": "Selecione o tipo"
+    }
+  },
+  "contacts": {
+    "title": "Contatos",
+    "btnNew": "Novo Contato",
+    "customers": "Clientes",
+    "customer": "Clientes",
+    "company": "Empresa",
+    "confirmUnlink": "Confirma o desvinculo?",
+    "link": "Vincular Cliente",
+    "unlink": "Desvincular",
+    "delete": "Excluir",
+    "confirmDelete": "Confirmar exclusão",
+    "data": {
+      "id": "#",
+      "name": "Nome",
+      "dob": "Data Nasc.",
+      "ssn": "CPF",
+      "email": "E-mail",
+      "mobile": "Celular",
+      "phone": "Contato",
+      "phone2": "Contato 2",
+      "contact": "Contato",
+      "type": "Funções",
+      "avatar": "Foto",
+      "customer": "Cliente",
+      "actions": "Ações"
+    }
+  },
+  "categories": {
+    "title": "Categorias",
+    "btnNew": "Nova Categoria",
+    "modal": {
+      "title": {
+        "add": "Cadastro de Categoria",
+        "edit": "Editando: {{record}}"
+      }
+    },
+    "data": {
+      "id": "#",
+      "name": "Nome"
+    }
+  },
+  "inventoryCategories": {
+    "title": "Categorias do inventário",
+    "btnNew": "Nova Categoria do inventário",
+    "modal": {
+      "title": {
+        "add": "Cadastro de Categoria do inventário",
+        "edit": "Editando: {{record}}"
+      }
+    },
+    "data": {
+      "id": "#",
+      "name": "Nome"
+    }
+  },
+  "subCategories": {
+    "title": "Subcategorias",
+    "btnNew": "Nova Subcategoria",
+    "modal": {
+      "title": {
+        "add": "Cadastro de Subcategoria",
+        "edit": "Editando: {{record}}"
+      }
+    },
+    "data": {
+      "id": "#",
+      "name": "Nome",
+      "category": "Categoria"
+    }
+  },
+  "inventorySubCategories": {
+    "title": "Subcategorias do inventário",
+    "btnNew": "Nova Subcategoria do inventário",
+    "modal": {
+      "title": {
+        "add": "Cadastro de Subcategoria do inventário",
+        "edit": "Editando: {{record}}"
+      }
+    },
+    "data": {
+      "id": "#",
+      "name": "Nome",
+      "inventoryCategory": "Categoria do inventário"
+    }
+  },
+  "roles": {
+    "title": "Grupos de Usuarios",
+    "btnNew": "Novo Grupo",
+    "permission": "Permissões",
+    "data": {
+      "id": "#",
+      "name": "Nome do Grupo",
+      "slug": "Slug"
+    },
+    "permissions": "Permissões"
+  },
+  "permissions": {
+    "title": "Permissões",
+    "btnNew": "Nova Permissão",
+    "data": {
+      "id": "#",
+      "name": "Permissão",
+      "slug": "Slug",
+      "permissions": "Permissões"
+    }
+  },
+  "login": {
+    "submit": "Redefinir",
+    "back": "Esqueci minha senha"
+  },
+  "rememberPassword": {
+    "back": "Voltar"
+  },
+  "resetPassword": {
+    "back": "Ir para Login"
+  },
+  "noData": "Nenhum registro encontrado",
+  "recordData": "Dados Cadastrais",
+  "editing": "Editando",
+  "pagination": {
+    "showing": "Exibindo",
+    "to": "à",
+    "of": "de",
+    "records": "registros"
+  }
+}
